@@ -11,6 +11,11 @@
 * English level: Advanced
 * Education: Bachelor in Computer Science. Faculty of Applied Maths and Computer Science, Belarusian State University.
 
+### Contacts:
+
+email: <a href="mailto:rasalomkin@gmail.com">rasalomkin@gmail.com</a>  
+Linked-in: https://www.linkedin.com/in/maxim-s-72540587/
+
 ## Working experience
 
 ### 01.09.2020 - now: Self-employed
