@@ -1,8 +1,6 @@
 # Senior Javascript Developer
 
-<img src="assets/photo.jpg" width="100" height="100" />
-<img src="/assets/photo.jpg" width="100" height="100" />
-<img src="./assets/photo.jpg" width="100" height="100" />
+<img src="assets/photo.jpg" width="100" />
 
 ### Summary:
 * Total experience: 8+ years
@@ -30,25 +28,25 @@ Working on various projects as a technical leader and developer, working on impr
 
 ##### Main projects:
 
-###### System for company credit scoring.
+##### System for company credit scoring.
 Scoring businesses credibility based on their age, bank account history and other details. 
 * Responsibilities: technical leadership, developing backend and frontend parts of the application.
 * Team size: 2 FE developers, 3 BE developers, 1 QA, TL, PM.
 * Technologies: JS, React, MySQL, AWS, DocuSign and multiple 3rd party service integrations.
 
-###### ERP system.
+##### ERP system.
 Automating business processes, resource management.
 * Responsibilities: working on a framework for speeding up development process, refactoring existing system.
 * Team size: 4 BE, 3 FE, 2 QA, TL, PM, BA.
 * Technologies: JS, React, Redux.
 
-###### E-learning platform.
+##### E-learning platform.
 E-learning platform for selling courses.
 * Responsibilities: technical leadership, optimizing system for high-load.
 * Team size: 8 BE, 6 FE, 4 QA, 2 mobile, TL, PM, BA.
 * Technologies: AWS, JS, twig. 
 
-###### AutoCAD plugin.
+##### AutoCAD plugin.
 Automating calculations and diagram drawing for crude oil drilling.
 * Responsibilities: development and requirements management.
 * Team size: 1 Dev, 1 QA, PM.
@@ -56,7 +54,7 @@ Automating calculations and diagram drawing for crude oil drilling.
 
 #### 01.07.2014 - 25.08.2016 ScienceSoft
 
-###### Video streaming platform.
+##### Video streaming platform.
 
 * Responsibilities: developing new features, maintaining one of sub-projects.
 * Technologies: JS, custom framework based on KnockoutJS.
