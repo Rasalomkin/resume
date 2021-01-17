@@ -54,7 +54,7 @@ Automating calculations and diagram drawing for crude oil drilling.
 * Team size: 1 Dev, 1 QA, PM.
 * Technologies: C#, AutoCAD
 
-### 01.07.2014 - 25.08.2016 ScienceSoft
+### 01.07.2014 - 25.08.2016: ScienceSoft
 
 #### Video streaming platform.
 
