@@ -13,7 +13,8 @@
 
 ### Contacts:
 
-email: <a href="mailto:rasalomkin@gmail.com">rasalomkin@gmail.com</a>  
+Telegram(**preferred**): <a href="https://t.me/rasalomkin">@rasalomkin</a>  
+Email: <a href="mailto:rasalomkin@gmail.com">rasalomkin@gmail.com</a>  
 Linked-in: https://www.linkedin.com/in/maxim-s-72540587/
 
 ## Working experience
