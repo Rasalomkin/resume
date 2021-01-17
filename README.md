@@ -1,6 +1,8 @@
-# Senior Javascript Developer
+# Shepelev Maxim
 
 <img src="assets/photo.jpg" width="100" />
+
+## Senior Javascript Developer
 
 ### Summary:
 * Total experience: 8+ years
@@ -13,10 +15,10 @@
 
 #### 01.09.2020 - now: Self-employed
 
-Working on system for managing sound system of a bar(or any other place) that allows clients to order songs.
+Working on system for managing bar(or any other place) sound system that allows clients to order songs and manage playlists for business owners.
 
 System consists of:
-* API: JS/nodejs
+* API: JS/Nodejs
 * Database: MySQL
 * Admin panel: JS/ReactJS
 * Mobile application: TS/React/Ionic
