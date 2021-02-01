@@ -6,8 +6,8 @@
 
 ## Summary:
 * Total experience: 8+ years
-* Technical skills: JavaScript, TypeScript, MySQL, AWS, HTML, CSS, NodeJS, ReactJS, Redux, Ionic Framework, Express framework, CI/CD setup, Docker.
-* Soft skills: technical leadership, requirements management, teaching, interviewing candidates, pre-sale.
+* Technical skills: JavaScript, TypeScript, MySQL, AWS, NodeJS, ReactJS, Redux, Ionic Framework, Express framework, Docker, CI/CD, HTML, CSS,.
+* Other skills: technical leadership, requirements management, writing documentation, teaching, interviewing candidates, pre-sale.
 * English level: Advanced
 * Education: Bachelor in Computer Science. Faculty of Applied Maths and Computer Science, Belarusian State University.
 
