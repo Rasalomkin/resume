@@ -12,6 +12,7 @@
 ### Contacts:
 
 LinkedIn(**preferred**): https://www.linkedin.com/in/maxim-s-72540587/
+
 Email: <a href="mailto:rasalomkin@gmail.com">rasalomkin@gmail.com</a>  
 
 ## Working experience
