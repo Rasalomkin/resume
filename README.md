@@ -3,17 +3,16 @@
 ## Senior Javascript Developer
 
 ## Summary:
-* Total experience: 9+ years
-* Technical skills: JavaScript, TypeScript, MySQL, AWS, NodeJS, ReactJS, Jest, Redux, Ionic Framework, Express framework, Docker, CI/CD, HTML, CSS,.
+* Total experience: 10+ years
+* Technical skills: JavaScript, TypeScript, MySQL, AWS, NodeJS, ReactJS, Jest, Redux, Ionic Framework, Express framework, Docker, CI/CD, HTML, CSS.
 * Other skills: technical leadership, requirements management, writing documentation, teaching, interviewing candidates, pre-sale activities.
 * English level: Advanced(C1)
 * Education: Bachelor in Computer Science. Faculty of Applied Maths and Computer Science, Belarusian State University.
 
 ### Contacts:
 
-Telegram(**preferred**): <a href="https://t.me/rasalomkin">@rasalomkin</a>  
+LinkedIn(**preferred**): https://www.linkedin.com/in/maxim-s-72540587/
 Email: <a href="mailto:rasalomkin@gmail.com">rasalomkin@gmail.com</a>  
-LinkedIn: https://www.linkedin.com/in/maxim-s-72540587/
 
 ## Working experience
 
@@ -21,7 +20,7 @@ LinkedIn: https://www.linkedin.com/in/maxim-s-72540587/
 
 Working as a senior software developer on data-driven application.
 
-Responsibilities include: frontend and backend-side development, writing documentation and refining requirements.
+Responsibilities: frontend and backend-side development, writing documentation, refining requirements, developers onboarding, interviews.
 
 Technologies: Typescript, ReactJS, KoaJS.
 
